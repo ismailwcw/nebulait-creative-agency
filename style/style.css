@@ -66,7 +66,7 @@ nav a{
 }
 
 .hero-bg{
-    background-image: url(./asset/from_root/header-bg.png);
+    background-image: url(./../asset/from_root/h);
     background-repeat: no-repeat;
     height: 814px;
     
@@ -168,7 +168,7 @@ nav a{
 .about {
     padding: 60px 20px;
     background-color: #f9f9f9;
-    background-image: url(./asset/background/2.jpg);
+    background-image: url(./../asset/background/2.jpg);
 }
 
 .about-container {
@@ -313,7 +313,7 @@ nav a{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(./asset/from_root/story.png);
+    background-image: url(./../asset/from_root/story.png);
     background-repeat: no-repeat;
     /* background-size: cover; */
 
